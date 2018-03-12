@@ -1,0 +1,6 @@
+Financial Analysis
+Total amount of months: 86
+Total Revenue: 36973911
+Avg change in revenue -5955.305882352941
+Greatest increase in revenue: 14-Jul 1645140
+Greatest decrease in revenue: 14-Jun -1947745
